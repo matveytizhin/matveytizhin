@@ -1,7 +1,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matveytizhin&theme=chartreuse_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matveytizhin&theme=city_lights&total_prs=false)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matveytizhin&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matveytizhin&theme=chartreuse_dark&total_prs=false)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matveytizhin&theme=chartreuse_dark)
 
 ### Tech Stack & Tools
 
