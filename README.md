@@ -1,6 +1,8 @@
 ### About Me:
 
-
+* __GITHUB__: https://github.com/matveytizhin/
+* __LINKEDIN__: https://www.linkedin.com/in/matvey-tizhin-a72b35384/
+* __telegram__: @m_tizhin
 
 
 
